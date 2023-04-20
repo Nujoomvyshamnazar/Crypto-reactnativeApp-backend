@@ -8,3 +8,6 @@ npm install
 
 to run project
 npm test or nodemon server
+
+By Author 
+Nujoom
